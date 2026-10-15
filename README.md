@@ -6,6 +6,8 @@
 HarmonyOS NEXT · ArkTS / ArkUI · Stage 模型 · API 17（HarmonyOS 5.0.5）
 **完全离线**：不申请网络权限，不收集任何个人信息。
 
+**🌐 在线预览（含六张界面截图）：<https://hahaaa520.github.io/campus-arena/>**
+
 ---
 
 ## 目录
