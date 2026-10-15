@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Campus Arena entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Campus tournament scheduling and conflict detection"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Campus Arena"
+    }
+  ]
+}

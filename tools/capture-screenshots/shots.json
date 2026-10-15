@@ -1,0 +1,24 @@
+{
+  "_说明": "shoot.js 的截图配置。坐标为 1920x1080 渲染像素，取自左上角。",
+  "project": "D:\\CampusArena",
+  "module": "entry",
+  "page": "pages/Index",
+  "device": "2in1",
+  "width": 1920,
+  "height": 1080,
+  "dpi": 160,
+  "language": "zh_CN",
+  "colorMode": "light",
+  "outDir": "out",
+  "settleMs": 2500,
+
+  "_shots说明": "左侧导航项中心 x≈107，y 从 102 起每行 +66。第 4 张额外点击「生成赛程」按钮，让截图里有真实赛程数据。",
+  "shots": [
+    { "name": "01-赛事总览", "settleMs": 2500 },
+    { "name": "02-赛事配置", "click": [107, 168] },
+    { "name": "03-参赛队伍", "click": [107, 234] },
+    { "name": "04-赛程编排", "clicks": [[107, 300], [427, 196]], "betweenMs": 1800, "settleMs": 2500 },
+    { "name": "05-场地视图", "click": [107, 366] },
+    { "name": "06-关于与帮助", "click": [107, 432] }
+  ]
+}

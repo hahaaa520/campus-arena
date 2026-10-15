@@ -1,0 +1,8 @@
+# --- signing secrets: never commit any of these -----------------------------
+credentials.json
+local-test/
+.build-profile.json5.bak
+.build-profile.json5.bak.old
+
+# captured build output
+*.log

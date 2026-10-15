@@ -1,0 +1,25 @@
+{
+  "setting": {
+    "1.0.1": {
+      "Language": {
+        "args": {
+          "Language": "zh-CN"
+        }
+      }
+    }
+  },
+  "frontend": {
+    "1.0.0": {
+      "Resolution": {
+        "args": {
+          "Resolution": "1920*1080"
+        }
+      },
+      "DeviceType": {
+        "args": {
+          "DeviceType": "2in1"
+        }
+      }
+    }
+  }
+}

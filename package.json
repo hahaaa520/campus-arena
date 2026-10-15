@@ -1,0 +1,16 @@
+{
+  "name": "campusarena",
+  "version": "1.0.0",
+  "ohos": {
+    "org": "huawei",
+    "buildTool": "hvigor",
+    "directoryLevel": "project"
+  },
+  "description": "校园赛程编排器 - Campus Arena, HarmonyOS 2in1 (PC) campus tournament scheduler",
+  "repository": {},
+  "license": "ISC",
+  "dependencies": {
+    "@ohos/hvigor": "5.17.6",
+    "@ohos/hvigor-ohos-plugin": "5.17.6"
+  }
+}

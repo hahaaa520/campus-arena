@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "校园赛程编排器主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "校园赛事赛程编排与冲突检测"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "校园赛程编排器"
+    }
+  ]
+}
